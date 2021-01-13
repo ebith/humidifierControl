@@ -1,0 +1,18 @@
+{
+  "name": "humidifier-control",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "ebith",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "influx": "^5.6.3",
+    "tplink-smarthome-api": "2.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.17.0",
+    "eslint-config-prettier": "^7.1.0",
+    "prettier": "^2.2.1"
+  }
+}
